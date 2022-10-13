@@ -1,0 +1,14 @@
+db.*
+__pycache__/
+env/
+venv/
+.env/
+.env
+00*
+*.zip
+.idea/
+.vscode/
+media/
+logfile
+var/
+
